@@ -16,7 +16,7 @@ namespace LizardCrossBreeder
             return $"Lizard:{Name},Morphs:{Morphs.Count}";
         }
 
-    }
+    } 
 
     class Morph
     {
